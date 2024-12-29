@@ -1,4 +1,5 @@
-<h1>Weather Prediction</h1>
+<h1>AI-Based Weather Prediction
+</h1>
 <p>
    The Weather Prediction repository contains the code and resources for an application that predicts upcoming weather using AI models KNN and Naive Bayes.<br>
    This application is built in Python programming language using Pycharm and demonstrates advanced knowledge in Machine Learning, Data Science, and Graphical Representation.
