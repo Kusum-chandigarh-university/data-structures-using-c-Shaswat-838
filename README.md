@@ -17,7 +17,7 @@
 <ol>
    <li>
       Clone or download the repository to your local machine
-      <pre><code>git clone https://github.com/Nitzantomer1998/WeatherPrediction.git</code></pre>
+      <pre><code>git clone https://github.com/Kusum-chandigarh-university/data-structures-using-c-Shaswat-838.git</code></pre>
    </li>
    <li>Open the project in Pycharm IDE</li>
    <li>Run the program to predict the upcoming weather</li>
